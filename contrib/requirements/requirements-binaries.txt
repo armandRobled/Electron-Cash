@@ -4,7 +4,7 @@ pycryptodomex
 psutil
 
 # we need at least cryptography>=2.6 for dnspython[DNSSEC]
-cryptography>=2.6
+cryptography>=46.0.5
 
 # For the QR code scanner
 # Version 2.2.0 added an interface that can be used without numpy
